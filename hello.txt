@@ -1,2 +1,6 @@
 Hi, my name is Poojitha.
+<<<<<<< HEAD
 This is a local change. 
+=======
+This is a change from remote..
+>>>>>>> 2a834fa54a6cbfb4bb081c6539b5f15bcd638fd4
